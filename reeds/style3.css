@@ -1,0 +1,53 @@
+header {
+    margin: 0;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    text-align: center;
+    background: #0697D5 ;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 25px;
+}
+
+.navbar {
+    text-align: center;
+    float: center;
+    padding: 3px 16px;
+    text-decoration: none;
+    display: inline;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.navbar-btn li{
+    display: inline;
+    margin: 15px;
+}
+
+#line {
+    text-decoration: none;
+    color: #818181 ;
+}
+
+.comingsoon {
+    text-align: center;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.tokopedia {
+    margin: 0 5px;
+    background: white;
+    border: 0;
+}
+
+.tokopedia-logo {
+    width: 55px;
+}
+
+.whatsapp {
+    margin: 0 5px;
+    background: white;
+    border: 0;
+}
+
+.whatsapp-logo {
+    width: 50px;
+}
